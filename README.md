@@ -103,3 +103,7 @@ console.log(newValue)
 将来 → 通过 js 动态渲染，实现功能
 ### 如图所示
 [![xtx](https://img.17carat.cn/2024/04/github/xdx.png "xtx")](https://img.17carat.cn/2024/04/github/xdx.png "xtx")
+
+## 四、编辑标题, 编辑框自动聚焦
+### 1. 点击编辑，显示编辑框(异步dom更新)
+### 2. 让编辑框，立刻获取焦点($nextTick等dom更新完，立刻执行准备的函数体)
