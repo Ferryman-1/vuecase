@@ -93,7 +93,7 @@ console.log(newValue)
 }
 }
 ```
-### 如图所示
+### 如图所示:
 [![achievement](https://img.17carat.cn/2024/04/github/achievement.png "achievement")](https://img.17carat.cn/2024/04/github/achievement.png "achievement")
 
 ## 三、小兔鲜首页组件化总结：
@@ -101,7 +101,7 @@ console.log(newValue)
 2. 根据设计图，编写组件 html 结构 css 样式 (已准备好)
 3. 拆分封装通用小组件 (局部或全局注册)
 将来 → 通过 js 动态渲染，实现功能
-### 如图所示
+### 如图所示:
 [![xtx](https://img.17carat.cn/2024/04/github/xdx.png "xtx")](https://img.17carat.cn/2024/04/github/xdx.png "xtx")
 
 ## 四、编辑标题, 编辑框自动聚焦
